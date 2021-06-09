@@ -13,6 +13,8 @@ public class Demo {
         System.out.println((c-d) == 0.1);
         System.out.println(1.0 / 0);
         System.out.println(0.0 / 0.0);
+        //test
+        
     }
 
     static <String, T, Alibaba> String get(String string, T t) { return string; }
